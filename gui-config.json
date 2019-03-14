@@ -1,0 +1,510 @@
+{
+  "configs": [
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "回国线路-移动",
+      "server": "node-uv-cn.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "回国线路-电信",
+      "server": "node-ch-cn2.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "德国CN2 Netflix",
+      "server": "82.129.30.112",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "菲律宾",
+      "server": "node-ph-mnl.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "英国 Netflix/BBC/ITV/C4/F4",
+      "server": "node-vm-uk.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "俄罗斯伯力1",
+      "server": "92.223.72.167",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "俄罗斯伯力2",
+      "server": "92.38.129.182",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "韩国SK【倍率:7】Netflix",
+      "server": "27.102.70.236",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "韩国KT【倍率:5】Netflix",
+      "server": "211.252.84.188",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "韩国BGP【倍率:3.5】Netflix",
+      "server": "103.86.44.197",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "韩国",
+      "server": "node-kr-seoul.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "韩国CN2【游戏 倍率:10】",
+      "server": "116.213.41.71",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "台湾1 Hinet Netflix",
+      "server": "61.216.109.91",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "台湾N Hinet Netflix",
+      "server": "node-tw-hit.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "台湾W Hinet Netflix",
+      "server": "tw1.miku.hktooo.top",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "台湾 APTG Netflix",
+      "server": "node-tw-aptg.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "深港专线【游戏 倍率:10】",
+      "server": "120.79.56.139",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港1 HKT TVB/Netflix",
+      "server": "node-hkg-phhkt.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港3 PCCW【倍率:5】TVB/NF",
+      "server": "193.110.203.224",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港4 CN2【倍率:2.5】",
+      "server": "node-hkg-ali4.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港5 CN2【倍率:2.5】",
+      "server": "node-hkg-ali5.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港6 CN2【倍率:2.5】",
+      "server": "node-hkg-ali6.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港7 WTT TVB/Netflix",
+      "server": "node-hkg-phwtt.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港8 HKT TVB/Netflix",
+      "server": "node-hkg-ph8.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港9 HKT TVB/Netflix",
+      "server": "node-hkg-ph9.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港10 HKBN TVB/Netflix",
+      "server": "node-hkg-phhkbn.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港11 HKT TVB/Netflix",
+      "server": "node-hkg-ph11.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港12 WTT TVB/Netflix",
+      "server": "node-hkg-phwttsc.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港13 HKT TVB/Netflix",
+      "server": "node-hkg-ph13.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港14 WTT TVB/Netflix【倍率:3.5】",
+      "server": "116.92.234.233",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港15 HKT TVB/Netflix",
+      "server": "node-hkg-ph15.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港16 PCCW【倍率:5】TVB/NF",
+      "server": "193.110.202.171",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港17 HKT TVB/Netflix",
+      "server": "node-hkg-ph17.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "香港20 HKT TVB/Netflix",
+      "server": "node-hkg-ph20.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国1 NCP CeraGIA HBO",
+      "server": "194.56.226.103",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国2 GIA CN2 Netflix",
+      "server": "103.70.59.182",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国3 GIA CN2 Netflix/hulu/HBO",
+      "server": "node-us-hu.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国4 GIA CN2 Netflix/hulu/HBO",
+      "server": "103.86.70.61",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国5 GIA CN2 Netflix",
+      "server": "103.70.59.10",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国6 GIA CN2 Netflix",
+      "server": "103.70.59.185",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国7  Netflix/HBO",
+      "server": "node-us-nf.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国8 GIA CN2 Netflix/hulu/HBO",
+      "server": "38.64.92.247",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国9 GIA CN2 Netflix",
+      "server": "103.102.7.115",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国10 Netflix/HBO",
+      "server": "node-aw-us.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "美国11 INAP Netflix/hulu/HBO",
+      "server": "141.98.219.166",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "新加坡 1",
+      "server": "node-sg-as.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "新加坡 2",
+      "server": "node-sg-al1.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "沪日专线【游戏 倍率:10】",
+      "server": "101.132.135.245",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本1 M247 Netflix /AbemaTV/hulu.jp",
+      "server": "194.156.229.91",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本2 SB【倍率:7】Netflix",
+      "server": "210.237.148.15",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本3 M247 Netflix",
+      "server": "89.31.126.88",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本4 GMO Netflix/AbemaTV/hulu.jp",
+      "server": "note-jp-ka.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本5 GMO Netflix",
+      "server": "note-tokyo-gmo.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本7",
+      "server": "note-jp-tokyo.kyssrcd.pw",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本8 Netflix/AbemaTV/hulu.jp",
+      "server": "150.66.15.117",
+      "server_port": 11264
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "F6x85pc5cX",
+      "remarks": "日本9 Netflix/AbemaTV/hulu.jp",
+      "server": "node-jp-awtokyo.kyssrcd.pw",
+      "server_port": 11264
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
